@@ -11,7 +11,10 @@ tags:
 
 What if scientific articles were a bit more like IDEs and you could highlight a word and see where those abbreviations or words are used throughout the document.
 
-![](./images/highlight-text.mp4)
+:::{figure }./images/highlight-text.mp4
+:label: fig:highlight-text
+Clicking on a word, highlights all instances of that word!
+:::
 
 When you highlight some text, it highlights it where ever that is in the document. This is similar to how IDEs work.
 

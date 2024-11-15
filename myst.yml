@@ -20,5 +20,7 @@ project:
       affiliations:
         - curvenote
   github: https://github.com/rowanc1/blog
+  abbreviations:
+    IDE: Integrated development environment
 site:
   template: book-theme
