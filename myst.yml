@@ -1,0 +1,24 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: dd77728a-6078-4a43-831b-3f2adb1d19f8
+  title: Rowan's Blog
+  affiliations:
+    - id: curvenote
+      name: Curvenote Inc.
+      ror: https://ror.org/02mz0e468
+      url: https://curvenote.com
+      country: Canada
+      email: support@curvenote.com
+  authors:
+    - id: rowan
+      name: Rowan Cockett
+      orcid: 0000-0002-7859-8394
+      email: rowan@curvenote.com
+      github: rowanc1
+      twitter: rowancockett
+      affiliations:
+        - curvenote
+  github: https://github.com/rowanc1/blog
+site:
+  template: book-theme
