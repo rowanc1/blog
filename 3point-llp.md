@@ -3,6 +3,7 @@ title: 3point LLP
 description: Lean Launch Pad
 date: 2015-03-27
 tags: ['presentations', '3point']
+thumbnail: images/presentations/3point-llp-seis-sketch.png
 ---
 
 ```{iframe} //www.youtube.com/embed/XADRYL00WxU

@@ -3,6 +3,7 @@ title: Electromagnetics Simulations and Inversions
 description: A framework for simulation and inversion in electromagnetics
 date: 2017-10-01
 tags: ['paper', 'simpeg', 'electromagnetics']
+thumbnail: images/papers/simpeg-em.png
 ---
 
 ## Abstract

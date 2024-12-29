@@ -3,6 +3,7 @@ title: On Teaching the Stereonet
 description: Thoughts on how to use the stereonet in education.
 date: 2013-06-14
 tags: ['thoughts', 'stereonet']
+thumbnail: images/stereonet/pole.png
 ---
 
 On my way to a conference in Italy, I chose to spend a week in France: hiking, drinking coffee and wine, and thinking about education. One thing that has been bugging me lately is how the geoscience community teaches how to manipulate and interrogate spatially oriented data. There are lots of problems that require us to take spatially oriented data visualize the data in a meaningful way, and synthesize what it all means!

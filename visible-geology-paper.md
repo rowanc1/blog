@@ -3,6 +3,7 @@ title: Visible Geology
 description: 'Visible Geology: Creative online tools for teaching, learning, and communicating geologic concepts'
 date: 2016-09-08
 tags: ['paper', 'visible-geology']
+thumbnail: images/papers/visible-geology.png
 ---
 
 ## Abstract

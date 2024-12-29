@@ -3,6 +3,7 @@ title: Casing and EM
 description: Modelling electromagnetic problems in the presence of cased wells
 date: 2015-10-27
 tags: ['paper', 'simpeg', 'electromagnetics']
+thumbnail: images/papers/seg-casing.png
 ---
 
 ## Abstract

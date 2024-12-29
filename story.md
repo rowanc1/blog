@@ -1,6 +1,7 @@
 ---
 title: Story
 description: Once upon a time...
+thumbnail: images/rowan/circle.png
 ---
 
 ## Rowan Cockett

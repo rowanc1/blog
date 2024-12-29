@@ -3,6 +3,7 @@ title: On Research
 description: That's not research?
 date: 2016-03-30
 tags: ['thoughts', 'phd']
+thumbnail: images/on/research-words.png
 ---
 
 (quote-hamming-important-work)=

@@ -3,6 +3,7 @@ title: Why SimPEG?
 description: Simulation and Parameter Estimation in Geophysics
 date: 2015-01-01
 tags: ['simpeg', 'thoughts']
+thumbnail: images/logo/simpeg-block.png
 ---
 
 Our essential functions as researchers are the pursuit and dissemination of knowledge through research and education. As scientists we seek to find models that reproduce the observations that we make in the world. In geophysics, we use inverse theory to mathematically create models of the earth from measured data. It is a difficult problem with many moving pieces: physics, discretization, simulation, regularization, optimization, computer science, linear algebra, geology. Exploring each of these disciplines can take a career, if you are so inclined, but as geophysicists we care about the combination: how to pull these disciplines together to answer our questions. This is the first problem we hope to help solve: to create a toolbox for the geophysicist that allows you to work at a high level and keep your geophysical question in focus. However, a toolbox is not enough. The research questions that we are interested in surround the integration of information to make better decisions.

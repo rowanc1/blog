@@ -3,6 +3,7 @@ title: SciPy2016
 description: All the geophysics but backwards.
 date: 2016-07-15
 tags: ['presentations', 'simpeg', 'phd']
+thumbnail: images/presentations/scipy2016.png
 ---
 
 ```{iframe} //www.youtube.com/embed/yUm01YsS9hQ

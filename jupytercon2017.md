@@ -3,6 +3,7 @@ title: JupyterCon
 description: Deploying a reproducible course
 date: 2017-08-24
 tags: ['presentations', 'geosci']
+thumbnail: images/presentations/jupytercon2017.png
 ---
 
 ```{iframe} //www.youtube.com/embed/XY3Tq9Wd1_A

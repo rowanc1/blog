@@ -3,6 +3,7 @@ title: Creating Technical Communication Tools
 description: Reflecting on creating tools for technical communication.
 date: 2019-11-12
 tags: ['thoughts', 'visible-geology', 'omf', 'simpeg']
+thumbnail: images/visible-geology/static-creative-thumbnail.png
 ---
 
 How do you get a complex geoscience idea out of someone's head and transfer it to someone else? Furthermore, how do you do that efficiently, effectively, and in such a way that it is scalable and open to interrogation?

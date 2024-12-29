@@ -3,6 +3,7 @@ title: Vanier Award
 description: Meeting the Governor General
 date: 2015-02-17
 tags: ['award', 'simpeg', 'visible-geology', 'thoughts', 'phd']
+thumbnail: images/awards/brassard-gg.jpg
 ---
 
 In 2014, I was awarded the [Vanier Scholarship](https://www.ubc.ca/stories/2015-winter/faces-of-research.html#ubc-vanier-scholars) and was also a recipient of the [Gilles Brassard Doctoral Prize for Interdisciplinary Research](http://www.nserc-crsng.gc.ca/Prizes-Prix/Brassard-Brassard/Profiles-Profils/Cockett-Cockett_eng.asp). The award ceremony for this was held in Ottawa and I got to meet the Governor General of Canada! I put a solid month of effort into writing the application for the Vanier Scholarship - with the help of many friends. Below is my **Leadership Self-Assessment**, which was one of the main parts of the application.

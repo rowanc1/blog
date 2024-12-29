@@ -3,6 +3,7 @@ title: Early Career Achievement Award - UCalgary
 description: Podcast with Matt Hall and Graham Ganssle
 date: 2018-09-08
 tags: ['visible-geology', 'simpeg', '3point', 'phd']
+thumbnail: images/awards/arch-photo.jpg
 ---
 
 In 2018 I was nominated for a early career achievement award at the University of Calgary for my work and leadership on [Visible Geology](visible-geology.md), [SimPEG](simpeg.md) and entrepreneurial work starting [3point Science](story.md). I received the Award in September 2018, some videos and pictures are below.

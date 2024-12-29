@@ -3,6 +3,7 @@ title: SimPEG Numbers
 description: Some numbers for the SimPEG project
 date: 2017-03-20
 tags: ['simpeg']
+thumbnail: images/on/simpeg-numbers-2017.png
 ---
 
 :::{figure} images/on/simpeg-numbers-2017.png

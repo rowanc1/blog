@@ -3,6 +3,7 @@ title: Visible Earthquakes
 description: Software to visualize earthquakes using InSAR data.
 date: 2013-04-20
 tags: ['visible-geology', 'thoughts']
+thumbnail: images/earthquakes/screenshot.png
 ---
 
 At a conference in Knoxville I got to chatting with Gareth Funning about using some of my software to visualize earthquakes using InSAR data. Here is what wikipedia has to say about InSAR:

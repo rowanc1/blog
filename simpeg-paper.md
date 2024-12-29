@@ -3,6 +3,7 @@ title: SimPEG Framework
 description: An open source framework for simulation and gradient based parameter estimation in geophysical applications
 date: 2015-12-01
 tags: ['paper', 'simpeg']
+thumbnail: images/papers/simpeg.png
 ---
 
 ## Abstract

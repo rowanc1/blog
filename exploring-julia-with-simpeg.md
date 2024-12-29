@@ -3,6 +3,7 @@ title: Exploring Julia with SimPEG
 description: A first attempt at translating some of the SimPEG library into Julia.
 date: 2015-01-27T00:00:00Z
 tags: ['julia', 'simpeg', 'thoughts']
+thumbnail: images/weakform-dc/dc-2d.png
 ---
 
 I have been meaning to checkout Julia for a while, an open source (and real) alternative to Matlab for doing scientific computing. I left Matlab for Python a few years ago, and have not looked back. However, Julia touts a mash-up of flexibility and high performance, through a dynamic type system and a JIT compiler, which makes it hard to ignore. Julia is also taking aim at parallel computing and cloud networks, I am extremely interested in these topics both from a research and an industry perspective[^course]. My plan is to bring some of the functionality of the SimPEG meshing and optimization packages over to Julia to explore this new language in a goal oriented and useful way. I am also hoping that by documenting some of the differences between Python and Julia as I move code over, it may be helpful to someone somewhere.

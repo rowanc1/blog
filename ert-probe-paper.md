@@ -3,6 +3,7 @@ title: Conductivity Probes
 description: 'Electrical Conductivity Probes for Studying Vadose Zone Processes: Advances in Data Acquisition and Analysis'
 date: 2013-02-04
 tags: ['paper']
+thumbnail: images/papers/probe.png
 ---
 
 ## Abstract

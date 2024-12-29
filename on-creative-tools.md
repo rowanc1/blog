@@ -3,6 +3,7 @@ title: Creative Tools
 description: Making creative tools for the geosciences
 date: 2015-01-08
 tags: ['thoughts', 'visible-geology']
+thumbnail: images/visible-geology/static-creative-thumbnail.png
 ---
 
 How do you get a complex geoscience idea out of someone's head and transfer it to someone else? Furthermore, how do you do that efficiently, effectively, and in such a way that it is scalable? For the last 5 years, or so, I have been building tools that have circled around these concepts. One of these tools is [Visible Geology](visible-geology), it is an online geologic block modelling tool that is targeted at introductory and structural geology. Students are able to combine geologic events in any order to create their own geology. It is really good at communicating things like relative geologic time, structural relationships, and visualizing geology in abstract ways (e.g. cross-sections and [stereonets](/stereonet)). So far people have created a few hundred thousand geologic models, and it is used in a lot of geoscience classes around the world. Having stumbled into (perhaps) a partial solution for geoscience communication, I have been reflecting and researching on why. Some of my heuristics are:

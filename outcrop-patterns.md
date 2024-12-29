@@ -3,6 +3,7 @@ title: Outcrop Patterns
 description: The Rule of Vs
 date: 2012-10-25
 tags: ['presentations', 'visible-geology']
+thumbnail: images/presentations/outcrop-patterns-thumbnail.png
 ---
 
 :::{figure} images/presentations/outcrop-patterns.png

@@ -3,6 +3,7 @@ title: SimPEG at SciPy
 description: Presenting at SciPy 2014
 date: 2014-07-12
 tags: ['presentations', 'simpeg', 'phd']
+thumbnail: images/presentations/scipy2014.png
 ---
 
 Seogi Kang and I just attended SciPy2014, where we presented about the progress that we have been making with SimPEG (Simulation and Parameter Estimation in Geophysics). It was a great experience, and we were able to meet quite a few people that were interested and impressed with what we have been building. We were chosen to give a poster presentation at the conference, but Matt Hall also snuck us into the geophysics talks where we gave a five minute advertisement! The Python conferences have a pretty cool tradition of Lightning talks, where they allow anyone to signup and give a five minute presentation about anything they want! These talks are in front of the entire audience and are very well attended, so it allows someone who didn't sign up for a talk, the space and time to get their message out. It was very high energy and not something that I have seen at other academic conferences.

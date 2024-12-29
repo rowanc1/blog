@@ -3,6 +3,7 @@ title: Parametrized Proppant
 description: Parametrized inversion framework for proppant volume in a hydraulically fractured reservoir
 date: 2014-10-26
 tags: ['paper', 'simpeg', 'electromagnetics']
+thumbnail: images/papers/seg-proppant.png
 ---
 
 ## Abstract

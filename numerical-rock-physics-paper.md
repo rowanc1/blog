@@ -3,6 +3,7 @@ title: Numerical Rock Physics
 description: Simulated electrical conductivity response of clogging mechanisms for managed aquifer recharge
 date: 2014-03-01
 tags: ['paper', 'uofc']
+thumbnail: images/papers/nrp.png
 ---
 
 ## Abstract

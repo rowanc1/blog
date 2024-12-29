@@ -3,6 +3,7 @@ title: Senior Thesis
 description: 'Two Approaches to Improving the Utility of Electrical Conductivity in Time Varying Porous Media: Numerical Modeling and Preliminary Field Inversions'
 date: 2010-12-20
 tags: ['paper', 'uofc']
+thumbnail: images/papers/uofc-thesis.png
 ---
 
 ## Abstract

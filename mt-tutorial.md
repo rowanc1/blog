@@ -3,6 +3,7 @@ title: Magnetotellurics Inversion
 description: 'Exploring nonlinear inversions: A 1D magnetotelluric example'
 date: 2017-08-01
 tags: ['paper', 'simpeg', 'electromagnetics']
+thumbnail: images/papers/mt-tutorial.png
 ---
 
 ## Abstract

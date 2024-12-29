@@ -3,6 +3,7 @@ title: 3point ➝ Seequent ➝ ??
 description:
 date: 2019-10-11
 tags: ['seequent', '3point', 'thoughts']
+thumbnail: images/logo/seequent-block.png
 ---
 
 > I recently resigned from my position leading the cloud team at Seequent. The cloud team was built

@@ -3,6 +3,7 @@ title: PhD Thesis
 description: A framework for geophysical inversions with application to vadose zone parameter estimation
 date: 2017-12-04
 tags: ['paper', 'simpeg', 'phd']
+thumbnail: images/papers/phd-thesis.png
 ---
 
 ## Abstract

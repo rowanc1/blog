@@ -3,6 +3,7 @@ title: 3point Story
 description: Keynote at e@UBC
 date: 2016-05-02
 tags: ['presentations', '3point']
+thumbnail: images/presentations/3point-ubc.png
 ---
 
 ```{iframe} //www.youtube.com/embed/R512Ylh-npE

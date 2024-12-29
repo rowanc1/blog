@@ -3,6 +3,7 @@ title: Innovative Dissemination - SimPEG
 description: UBC Library Award
 date: 2016-04-08
 tags: ['award', 'simpeg', 'thoughts']
+thumbnail: images/awards/idea2016-simpeg.jpg
 ---
 
 SimPEG recently won an [Innovative Dissemination of Research Award](https://about.library.ubc.ca/2016/03/31/open-source-geophysics-research-project-awarded-idea-2016) from the University of British Columbia (UBC) Library. The award honours UBC faculty, staff and students who expand the boundaries of research through the creative use of new tools and technologies. Lindsey Heagy, Seogi Kang, and me were honored to receive this award, and are extremely proud of community that is being built around the SimPEG framework.

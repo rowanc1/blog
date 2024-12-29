@@ -3,6 +3,7 @@ title: A Teaching Philosophy
 description: Thoughts on teaching.
 date: 2012-10-25
 tags: ['thoughts', 'visible-geology', 'phd']
+thumbnail: images/presentations/outcrop-patterns.png
 ---
 
 :::{note} Note

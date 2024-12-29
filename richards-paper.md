@@ -3,6 +3,7 @@ title: Vadose Zone Inversion
 description: Efficient 3D Richards equation inversion.
 date: 2017-06-11
 tags: ['paper', 'simpeg', 'richards']
+thumbnail: images/papers/richards.png
 ---
 
 ## Abstract

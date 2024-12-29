@@ -3,6 +3,7 @@ title: VP Cloud Architecture
 description: Job description for my role.
 date: 2019-01-01
 tags: ['seequent']
+thumbnail: images/logo/seequent-block.png
 ---
 
 :::{note}

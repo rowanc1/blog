@@ -3,6 +3,7 @@ title: On Breakthroughs
 description: Stick poking researchers
 date: 2016-02-17
 tags: ['thoughts', 'electromagnetics']
+thumbnail: images/on/stick-poking.png
 ---
 
 There are two parts to research: punching through the bounds of our current knowledge, and cleaning up the damage that is done by that breakthrough. One is glamorous, one is tedious. One is glorified, one is janitorial. Both are necessary.

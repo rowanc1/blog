@@ -3,6 +3,7 @@ title: Dimensions of EM
 description: Moving between dimensions in electromagnetic inversions
 date: 2015-10-26
 tags: ['paper', 'simpeg', 'electromagnetics']
+thumbnail: images/papers/seg-moving-dimensions.png
 ---
 
 ## Abstract
