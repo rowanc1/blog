@@ -1,0 +1,10 @@
+---
+title: Outcrop Patterns
+description: The Rule of Vs
+date: 2012-10-25
+tags: ['presentations', 'visible-geology']
+---
+
+:::{figure} images/presentations/outcrop-patterns.png
+A talk I gave on [Outcrop Patterns](/static/outcrop-patterns/index.html) in Geology.
+:::

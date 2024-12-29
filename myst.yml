@@ -22,6 +22,10 @@ project:
   github: https://github.com/rowanc1/blog
   abbreviations:
     IDE: Integrated development environment
+  plugins:
+    - plugin.mjs
 site:
   template: book-theme
   logo_text: Rowan's Blog
+  domains:
+    - rowanc1-blog.curve.space

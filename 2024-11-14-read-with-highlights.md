@@ -3,6 +3,7 @@ title: Highlighting text in a scientific article
 description: What if scientific articles were a bit more like IDEs and you could highlight a word and see where those abbreviations or words are used throughout the document.
 identifiers:
   bsky: https://bsky.app/profile/row1.ca/post/3laxqx6dcuc2g
+date: 2024-11-14
 tags:
   - experiment
   - reading
@@ -11,7 +12,7 @@ tags:
 
 What if scientific articles were a bit more like IDEs and you could highlight a word and see where those abbreviations or words are used throughout the document.
 
-:::{figure }./images/highlight-text.mp4
+:::{figure} ./images/highlight-text.mp4
 :label: fig:highlight-text
 Clicking on a word, highlights all instances of that word!
 :::
