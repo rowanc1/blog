@@ -24,6 +24,63 @@ project:
     IDE: Integrated development environment
   plugins:
     - plugin.mjs
+  toc:
+    - file: index.md
+    - file: story.md
+    - file: 2024-11-14-read-with-highlights.md # 2024-11-14
+    - file: creating-technical-communication-tools.md # 2019-11-12
+    - file: seequent-learnings.md # 2019-10-11
+    - file: fats-2019.md # 2019-03-22
+    - file: vp-cloud-architecture.md # 2019-01-01
+    - file: early-career-award-ucalgary.md # 2018-09-08
+    - file: phd.md # 2017-12-04
+    - file: phd-thesis.md # 2017-12-04
+    - file: phd-defence.md # 2017-12-04
+    - file: phd-courses.md # 2017-12-04
+    - file: simpeg-em-paper.md # 2017-10-01
+    - file: jupytercon2017.md # 2017-08-24
+    - file: mt-tutorial.md # 2017-08-01
+    - file: richards-paper.md # 2017-06-11
+    - file: simpeg-numbers-2017.md # 2017-03-20
+    - file: phd-overview.md # 2017-02-28
+    - file: omf.md # 2016-11-24
+    - file: visible-geology-paper.md # 2016-09-08
+    - file: birs2016-intro.md # 2016-08-21
+    - file: scipy2016.md # 2016-07-15
+    - file: scipy2016-steno3d.md # 2016-07-15
+    - file: undersampled-15.md # 2016-06-23
+    - file: 3point-ubc-keynote.md # 2016-05-02
+    - file: innovative-dissemination-award-simpeg.md # 2016-04-08
+    - file: on-research.md # 2016-03-30
+    - file: on-breakthroughs.md # 2016-02-17
+    - file: simpeg-paper.md # 2015-12-01
+    - file: seg-casing.md # 2015-10-27
+    - file: seg-moving-dimensions.md # 2015-10-26
+    - file: 3point-llp.md # 2015-03-27
+    - file: vanier.md # 2015-02-17
+    - file: visible-geology.md # 2015-01-27
+    - file: exploring-julia-with-simpeg.md # 2015-01-27
+    - file: on-creative-tools.md # 2015-01-08
+    - file: simpeg.md # 2015-01-01
+    - file: simpeg-why.md # 2015-01-01
+    - file: seg-proppant.md # 2014-10-26
+    - file: geosci.md # 2014-09-16
+    - file: on-ideas-and-pencils.md # 2014-07-13
+    - file: scipy2014.md # 2014-07-12
+    - file: numerical-rock-physics-paper.md # 2014-03-01
+    - file: open-access-tools.md # 2014-01-22
+    - file: on-teaching-stereonets.md # 2013-06-14
+    - file: stereonet.md # 2013-04-25
+    - file: visible-earthquakes.md # 2013-04-20
+    - file: innovative-dissemination-award-visible-geology.md # 2013-04-13
+    - file: ert-probe-paper.md # 2013-02-04
+    - file: outcrop-patterns.md # 2012-10-25
+    - file: on-teaching-2012.md # 2012-10-25
+    - file: uofc-thesis.md # 2010-12-20
+    - file: uofc.md # 2010-12-01
+    - title: Listings
+      children:
+        - file: thoughts.md
 site:
   template: book-theme
   logo_text: Rowan's Blog
