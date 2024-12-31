@@ -2,7 +2,7 @@
 title: Innovative Dissemination - SimPEG
 description: UBC Library Award
 date: 2016-04-08
-tags: ['award', 'simpeg', 'thoughts']
+tags: ['award', 'simpeg', 'thought']
 thumbnail: images/awards/idea2016-simpeg.jpg
 ---
 

@@ -2,7 +2,7 @@
 title: On Research
 description: That's not research?
 date: 2016-03-30
-tags: ['thoughts', 'phd']
+tags: ['thought', 'phd']
 thumbnail: images/on/research-words.png
 ---
 

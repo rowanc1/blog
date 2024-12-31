@@ -2,7 +2,7 @@
 title: Creating Technical Communication Tools
 description: Reflecting on creating tools for technical communication.
 date: 2019-11-12
-tags: ['thoughts', 'visible-geology', 'omf', 'simpeg']
+tags: ['thought', 'visible-geology', 'omf', 'simpeg']
 thumbnail: images/visible-geology/static-creative-thumbnail.png
 ---
 

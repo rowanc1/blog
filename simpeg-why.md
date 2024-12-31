@@ -2,7 +2,7 @@
 title: Why SimPEG?
 description: Simulation and Parameter Estimation in Geophysics
 date: 2015-01-01
-tags: ['simpeg', 'thoughts']
+tags: ['simpeg', 'thought']
 thumbnail: images/logo/simpeg-block.png
 ---
 

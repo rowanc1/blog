@@ -2,7 +2,7 @@
 title: Probability of an Oil Spill: Northern Gateway
 description: In the Northern Gateway project Enbridge calculates the expected time till first (major) oil spill. I decided to read the documents and think about probabilities over Christmas, with a few interesting results...
 date: 2014-01-03T00:00:00Z
-tags: ['thoughts', 'explorable']
+tags: ['thought', 'explorable']
 thumbnail: /images/probability-of-a-spill/thumbnail.gif
 ---
 

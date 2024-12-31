@@ -2,7 +2,7 @@
 title: On Teaching the Stereonet
 description: Thoughts on how to use the stereonet in education.
 date: 2013-06-14
-tags: ['thoughts', 'stereonet']
+tags: ['thought', 'stereonet']
 thumbnail: images/stereonet/pole.png
 ---
 

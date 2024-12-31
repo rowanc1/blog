@@ -2,7 +2,7 @@
 title: Vanier Award
 description: Meeting the Governor General
 date: 2015-02-17
-tags: ['award', 'simpeg', 'visible-geology', 'thoughts', 'phd']
+tags: ['award', 'simpeg', 'visible-geology', 'thought', 'phd']
 thumbnail: images/awards/brassard-gg.jpg
 ---
 

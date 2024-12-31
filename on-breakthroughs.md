@@ -2,7 +2,7 @@
 title: On Breakthroughs
 description: Stick poking researchers
 date: 2016-02-17
-tags: ['thoughts', 'electromagnetics']
+tags: ['thought', 'electromagnetics']
 thumbnail: images/on/stick-poking.png
 ---
 

@@ -2,7 +2,7 @@
 title: 3point ➝ Seequent ➝ ??
 description:
 date: 2019-10-11
-tags: ['seequent', '3point', 'thoughts']
+tags: ['seequent', '3point', 'thought']
 thumbnail: images/logo/seequent-white.png
 ---
 

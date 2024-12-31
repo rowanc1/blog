@@ -86,6 +86,7 @@ project:
         - file: papers.md
         - file: explorables.md
         - file: projects.md
+        - file: presentations.md
     - file: story.md
     - file: curriculum-vitae.md
 site:

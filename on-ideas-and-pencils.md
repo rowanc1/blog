@@ -2,7 +2,7 @@
 title: Ideas and Pencils
 description: What is an idea?
 date: 2014-07-13
-tags: ['thoughts']
+tags: ['thought']
 thumbnail: images/on/pencils.png
 ---
 

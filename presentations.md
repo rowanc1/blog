@@ -1,9 +1,9 @@
 ---
-title: Thoughts
+title: Presentations
 date: null
 authors: []
 ---
 
 :::{articles}
-:tagged: thought
+:tagged: presentation
 :::

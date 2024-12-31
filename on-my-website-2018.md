@@ -2,7 +2,7 @@
 title: Website Redesign
 description: Some ideas about the scholarly commons.
 date: 2018-02-03
-tags: ['bricks', 'thoughts', 'explorable-meta']
+tags: ['bricks', 'thought', 'explorable-meta']
 thumbnail: /images/website/life.png
 ---
 

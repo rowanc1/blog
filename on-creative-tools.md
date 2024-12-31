@@ -2,7 +2,7 @@
 title: Creative Tools
 description: Making creative tools for the geosciences
 date: 2015-01-08
-tags: ['thoughts', 'visible-geology']
+tags: ['thought', 'visible-geology']
 thumbnail: images/visible-geology/static-creative-thumbnail.png
 ---
 

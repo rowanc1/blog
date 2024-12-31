@@ -2,7 +2,7 @@
 title: Exploring Julia with SimPEG
 description: A first attempt at translating some of the SimPEG library into Julia.
 date: 2015-01-27T00:00:00Z
-tags: ['julia', 'simpeg', 'thoughts']
+tags: ['julia', 'simpeg', 'thought']
 thumbnail: images/weakform-dc/dc-2d.png
 ---
 

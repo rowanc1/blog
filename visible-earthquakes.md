@@ -2,7 +2,7 @@
 title: Visible Earthquakes
 description: Software to visualize earthquakes using InSAR data.
 date: 2013-04-20
-tags: ['visible-geology', 'thoughts']
+tags: ['visible-geology', 'thought']
 thumbnail: images/earthquakes/screenshot.png
 ---
 

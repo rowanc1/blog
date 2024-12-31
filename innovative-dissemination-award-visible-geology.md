@@ -2,7 +2,7 @@
 title: Innovative Dissemination - Visible Geology
 description: UBC Library Award
 date: 2013-04-13
-tags: ['award', 'visible-geology', 'thoughts']
+tags: ['award', 'visible-geology', 'thought']
 thumbnail: images/awards/idea2014-visiblegeology.jpg
 ---
 
