@@ -4,6 +4,7 @@ description: What if scientific articles were a bit more like IDEs and you could
 identifiers:
   bsky: https://bsky.app/profile/row1.ca/post/3laxqx6dcuc2g
 date: 2024-11-14
+thumbnail: images/short/read-with-highlights.png
 tags:
   - experiment
   - reading

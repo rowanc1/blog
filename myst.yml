@@ -27,8 +27,11 @@ project:
   toc:
     - file: index.md
     - file: story.md
+    - file: curriculum-vitae.md
     - file: 2024-11-14-read-with-highlights.md # 2024-11-14
     - file: creating-technical-communication-tools.md # 2019-11-12
+    - file: ink-2019.md # 2019-05-12
+    - file: components-ink.md # 2019-05-12
     - file: seequent-learnings.md # 2019-10-11
     - file: fats-2019.md # 2019-03-22
     - file: vp-cloud-architecture.md # 2019-01-01

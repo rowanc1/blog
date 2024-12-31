@@ -15,4 +15,4 @@ thumbnail: images/logo/ucalgary.png
 
 ## Thesis:
 
-- [Senior Thesis](/uofc-thesis)
+- [Senior Thesis](uofc-thesis.md)
