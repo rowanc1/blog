@@ -1,12 +1,8 @@
 ---
-title: Story
+title: Story | Rowan Cockett
 description: Once upon a time...
 thumbnail: images/rowan/circle.png
 ---
-
-## Rowan Cockett
-
-I am interested in the intersection of education, entrepreneurship, and academia, and seeing what happens when you make powerful scientific modeling, visualization and collaboration tools accessible through the web.
 
 ::::{aside}
 :::{figure} images/presentations/undersampled-15.png
@@ -14,19 +10,21 @@ I am interested in the intersection of education, entrepreneurship, and academia
 :::
 ::::
 
+I am interested in the intersection of education, entrepreneurship, and academia, and seeing what happens when you make powerful scientific modeling, visualization and collaboration tools accessible through the web.
+
 I started [creating geoscience visualization](visible-geology.md) software as an undergraduate when I saw many of my peers [struggling with three dimensional intuition](open-access-tools.md). After sharing my initial visualizations with my peers, it was clear that I had stumbled upon an extremely effective teaching method. I took a year off after my [undergrad in geology](uofc.md) to re-write my Matlab code for the web and posted [on a single blog](http://www.structuralgeology.org/2010/08/paper-models-for-structural-geology.html) and promptly started graduate school.
 
 ---
 
 ### Entrepreneurship 1.0
 
-With Visible Geology out in the world, I started getting contacted by textbook companies and oil and gas professionals. Since launching in 2011, over 350,000 people have used Visible Geology and they create over 30,000 geologic models a month! This idea was bigger than I had first thought and after watching a [Ted Talk](https://www.ted.com/talks/meg_jay_why_30_is_not_the_new_20#t-578165) I was convinced I should start a company.
-
 ::::{aside}
 :::{figure} images/logo/visible-geology.png
 I started [Visible Geology](visible-geology.md), an online 3D geologic modeling tool.
 :::
 ::::
+
+With Visible Geology out in the world, I started getting contacted by textbook companies and oil and gas professionals. Since launching in 2011, over 350,000 people have used Visible Geology and they create over 30,000 geologic models a month! This idea was bigger than I had first thought and after watching a [Ted Talk](https://www.ted.com/talks/meg_jay_why_30_is_not_the_new_20#t-578165) I was convinced I should start a company.
 
 :::{figure} images/visible-geology/analytics.png
 Two years of work, a single blog post comment and my first 5000 users! \

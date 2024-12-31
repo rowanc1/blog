@@ -6,9 +6,9 @@ identifiers:
 date: 2024-11-14
 thumbnail: images/short/read-with-highlights.png
 tags:
-  - experiment
-  - reading
   - short
+  - thoughts
+  - experiment
 ---
 
 What if scientific articles were a bit more like IDEs and you could highlight a word and see where those abbreviations or words are used throughout the document.

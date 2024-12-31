@@ -2,7 +2,7 @@
 title: Visible Geology
 description: Create your own geologic models online.
 date: 2015-01-27T00:00:00Z
-tags: ['visible-geology']
+tags: ['visible-geology', 'project']
 ---
 
 ::::{aside}

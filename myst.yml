@@ -22,12 +22,11 @@ project:
   github: https://github.com/rowanc1/blog
   abbreviations:
     IDE: Integrated development environment
+    OMF: Open Mining Format
   plugins:
     - plugin.mjs
   toc:
     - file: index.md
-    - file: story.md
-    - file: curriculum-vitae.md
     - file: 2024-11-14-read-with-highlights.md # 2024-11-14
     - file: creating-technical-communication-tools.md # 2019-11-12
     - file: ink-2019.md # 2019-05-12
@@ -84,6 +83,11 @@ project:
     - title: Listings
       children:
         - file: thoughts.md
+        - file: papers.md
+        - file: explorables.md
+        - file: projects.md
+    - file: story.md
+    - file: curriculum-vitae.md
 site:
   template: book-theme
   logo_text: Rowan's Blog

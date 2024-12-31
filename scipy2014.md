@@ -2,7 +2,7 @@
 title: SimPEG at SciPy
 description: Presenting at SciPy 2014
 date: 2014-07-12
-tags: ['presentations', 'simpeg', 'phd']
+tags: ['presentation', 'simpeg', 'phd']
 thumbnail: images/presentations/scipy2014.png
 ---
 

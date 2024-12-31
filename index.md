@@ -1,6 +1,9 @@
 ---
 title: Rowan Cockett
 date: null
+site:
+  hide_title_block: true
+  hide_footer_links: true
 ---
 
 +++ {"class": "text-center italic"}
@@ -26,25 +29,25 @@ technical communication / scientific computing / visualization / thoughts
 :::
 
 :::{articles} explorables
-:tagged: explorables
+:tagged: explorable
 :limit: 4
 :url: /explorables
 :::
 
 :::{articles} projects
-:tagged: projects
+:tagged: project
 :limit: 4
 :url: /projects
 :::
 
 :::{articles} presentations
-:tagged: presentations
+:tagged: presentation
 :limit: 4
 :url: /presentations
 :::
 
 :::{articles} papers
-:tagged: papers
+:tagged: paper
 :limit: 4
 :url: /papers
 :::

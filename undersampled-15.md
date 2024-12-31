@@ -2,7 +2,7 @@
 title: Undersampled Interview
 description: Podcast with Matt Hall and Graham Ganssle
 date: 2016-06-23
-tags: ['presentations', 'visible-geology', 'simpeg', '3point']
+tags: ['presentation', 'visible-geology', 'simpeg', '3point']
 thumbnail: images/presentations/undersampled-15.png
 ---
 

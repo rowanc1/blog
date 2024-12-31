@@ -2,7 +2,7 @@
 title: Univ. of Calgary
 description: My presentations and courses.
 date: 2010-12-01
-tags: ['projects']
+tags: ['project']
 thumbnail: images/logo/ucalgary.png
 ---
 

@@ -2,7 +2,7 @@
 title: SimPEG Conference
 description: BIRS Workshop
 date: 2016-08-21
-tags: ['presentations', 'simpeg']
+tags: ['presentation', 'simpeg']
 thumbnail: images/presentations/birs2016-people-small.png
 ---
 

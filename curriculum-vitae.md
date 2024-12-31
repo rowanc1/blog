@@ -1,5 +1,7 @@
 ---
 title: Rowan Cockett - Curriculum Vitae
+description: I am interested in the intersection of education, entrepreneurship, and academia, and seeing what happens when you make powerful scientific modeling, visualization and collaboration tools accessible through the web.
+thumbnail: ./images/rowan/requesting-to-join.png
 ---
 
 I am interested in the intersection of education, entrepreneurship, and academia, and seeing what happens when you make powerful scientific modeling, visualization and collaboration tools accessible through the web. [(Read more)](./story.md).

@@ -2,7 +2,7 @@
 title: PhD Defence
 description: My PhD Defence
 date: 2017-12-04
-tags: ['presentations', 'phd']
+tags: ['presentation', 'phd']
 thumbnail: images/phd/defence.png
 ---
 

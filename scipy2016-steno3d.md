@@ -2,7 +2,7 @@
 title: Steno3D Introduction
 description: Introducing Steno3D at SciPy 2016.
 date: 2016-07-15
-tags: ['presentations', 'steno3d']
+tags: ['presentation', 'steno3d']
 thumbnail: images/presentations/scipy2016-steno3d.jpg
 ---
 
