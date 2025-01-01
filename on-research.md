@@ -13,7 +13,7 @@ thumbnail: images/on/research-words.png
 > -- [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) (Richard Hamming, 1986)
 
 :::{warning}
-Cynical. Read the context at the bottom or look at [On Breakthroughs](/on-breakthroughs)
+Cynical. Read the context at the bottom or look at [On Breakthroughs](on-breakthroughs.md)
 :::
 
 ## A story
@@ -41,7 +41,7 @@ In applied geophysics, I believe that we are also plagued by the general trend t
 
 I wrote this article when struggling with how to focus my PhD dissertation. Many rather senior professors I talked with casually dismissed much of my PhD with sweeping comments of "That's not research". This annoyed me enough into changing the focus of my PhD to this non-research almost entirely (much to the dismay of some of my committee, ha - I graduated, so I can laugh!). I felt like it was important work to rigorously study, research - you might say, how various geoscience fields fit together. Without this type of research, there would be [a crushing debt](https://distill.pub/2017/research-debt/) of all sorts of geophysical methods that don't work together.
 
-I followed this article up with a slightly less caustic version [On Breakthroughs](/on-breakthroughs), that tried to illustrate a more diverse view on research that highlights both the creation as well as the curation of ideas.
+I followed this article up with a slightly less caustic version [On Breakthroughs](on-breakthroughs.md), that tried to illustrate a more diverse view on research that highlights both the creation as well as the curation of ideas.
 
 (quote-dawkins-perspective)=
 

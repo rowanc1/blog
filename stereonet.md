@@ -11,9 +11,9 @@ For a long time I have wanted to do an interactive lesson on how to plot planes 
 
 The tutorials are:
 
-- [Plotting a line on a stereonet](/stereonet-tutorial-plane)
-- [Plotting a line on a stereonet](/stereonet-tutorial-line)
-- [Finding the intersection between two planes.](/stereonet-tutorial-intersection)
+- [Plotting a line on a stereonet](stereonet-tutorial-plane.md)
+- [Plotting a line on a stereonet](stereonet-tutorial-line.md)
+- [Finding the intersection between two planes.](stereonet-tutorial-intersection.md)
 
 I gave 10 very short points on how to plot planes and lines (one of them is Enjoy!), please give feedback if you think any are unclear to a beginner! I think the best part about this tutorial is that it goes into 3D at one point, where you can pause, and really get an idea of what that plane means by dragging it around yourself.
 

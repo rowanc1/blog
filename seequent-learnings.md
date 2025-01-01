@@ -17,7 +17,7 @@ Over the last three years, I have helped set the strategic direction and executi
     I co-founded 3point Science in 2013 and sold to Seequent in 2016, where the company continued to operate as a subsidiary of Seequent (at that time called ARANZ Geo).
 
     :::{figure} images/logo/seequent.png
-    ARANZ Geo [rebranded to Seequent](/seequent-rebrand) in 2017
+    ARANZ Geo [rebranded to Seequent](https://www.seequent.com/blog/2018/1/30/why-we-changed) in 2017
     :::
 
 :::{figure} images/steno3d/seismic.png

@@ -27,7 +27,7 @@ I think that it is this imperfect transmission of ideas that allows us to make p
 
 ## Idea transfer
 
-Where in our experience do ideas travel the fastest? Which industries are the fastest moving? I was just at [SciPy 2014](/scipy2014), a programming conference which has a huge focus on open source software. Open source means that the code for the program is freely accessible, anyone can download it, run it and see your take on an idea. But just like anything else, when you show someone your idea, it isn't quite right in the context that they thought about. When the software is open source, it is possible for other people to communicate back to you and push your idea along. This conference was full of people who were adamant about sharing and keeping things open.
+Where in our experience do ideas travel the fastest? Which industries are the fastest moving? I was just at [SciPy 2014](scipy2014.md), a programming conference which has a huge focus on open source software. Open source means that the code for the program is freely accessible, anyone can download it, run it and see your take on an idea. But just like anything else, when you show someone your idea, it isn't quite right in the context that they thought about. When the software is open source, it is possible for other people to communicate back to you and push your idea along. This conference was full of people who were adamant about sharing and keeping things open.
 
 I think that these sorts of practices are hugely important to tackle some of the very large problems that we are facing. We need ideas out in the open that can feed off of each other, be nudged along, and improved.
 
