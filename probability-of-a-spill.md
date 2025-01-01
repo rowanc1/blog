@@ -1,23 +1,25 @@
 ---
-title: Probability of an Oil Spill: Northern Gateway
+title: 'Probability of an Oil Spill: Northern Gateway'
 description: In the Northern Gateway project Enbridge calculates the expected time till first (major) oil spill. I decided to read the documents and think about probabilities over Christmas, with a few interesting results...
-date: 2014-01-03T00:00:00Z
+date: 2014-01-03
 tags: ['thought', 'explorable']
 thumbnail: /images/probability-of-a-spill/thumbnail.gif
 ---
 
 +++
-\<ink-var name=“p_f_array” type=“Array” value=“\[0.001, 0.0012, 0.0014, 0.0016, 0.0018, 0.002, 0.0025, 0.003, 0.0035, 0.004, 0.0045, 0.005, 0.0055, 0.006, 0.0065, 0.007, 0.0075, 0.008, 0.0085, 0.009, 0.0095, 0.01, 0.0105, 0.011, 0.0115, 0.012, 0.0125, 0.013, 0.0135, 0.014, 0.0145, 0.015, 0.0155, 0.016, 0.0165, 0.017, 0.0175, 0.018, 0.0185, 0.019, 0.0195, 0.02, 0.025, 0.03, 0.035, 0.04, 0.045, 0.05, 0.055, 0.06, 0.065, 0.07, 0.075, 0.08, 0.085, 0.09, 0.095, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55]”
+\<ink-var name=“p\_f\_array” type=“Array” value=“\[0.001, 0.0012, 0.0014, 0.0016, 0.0018, 0.002, 0.0025, 0.003, 0.0035, 0.004, 0.0045, 0.005, 0.0055, 0.006, 0.0065, 0.007, 0.0075, 0.008, 0.0085, 0.009, 0.0095, 0.01, 0.0105, 0.011, 0.0115, 0.012, 0.0125, 0.013, 0.0135, 0.014, 0.0145, 0.015, 0.0155, 0.016, 0.0165, 0.017, 0.0175, 0.018, 0.0185, 0.019, 0.0195, 0.02, 0.025, 0.03, 0.035, 0.04, 0.045, 0.05, 0.055, 0.06, 0.065, 0.07, 0.075, 0.08, 0.085, 0.09, 0.095, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55]”
 
 >
 
-\<ink-var name=“et2fail_50” :value=“Math.log( 0.5 ) / Math.log( 1 - p_f_array\[p_f_pick_50] )” format=“.1f”
+\<ink-var name=“et2fail\_50” :value=“Math.log( 0.5 ) / Math.log( 1 - p\_f\_array\[p\_f\_pick\_50] )” format=“.1f”
 
 >
 
-\<ink-var name=“chance_no_spill_p” :value=“Math.pow(1 - p_f_array\[p_f_pick_p], years2fail_p)” format=“.1%”
+\<ink-var name=“chance\_no\_spill\_p” :value=“Math.pow(1 - p\_f\_array\[p\_f\_pick\_p], years2fail\_p)” format=“.1%”
 
 >
+
+
 
 The Canadian Joint Review Panel for the proposed Enbridge Northern Gateway Project recommended that the federal government approve the project, subject to 209 required conditions.
 
@@ -27,7 +29,7 @@ The Canadian Joint Review Panel for the proposed Enbridge Northern Gateway Proje
 
 ---
 
-One curiosity of their report is the risk numbers. Let us crunch their numbers for fun! This may be of interest as they should perhaps change their calculations in future. They calculated the _expected time_ until the first spill, however the _median time_, for example, until a spill may be more informative.
+One curiosity of their report is the risk numbers. Let us crunch their numbers for fun! This may be of interest as they should perhaps change their calculations in future. They calculated the *expected time* until the first spill, however the *median time*, for example, until a spill may be more informative.
 
 Northern Gateway estimates the probability of a major spill on the pipeline is 0.2% ($p = 0.002$) per year; they double this risk on the tanker transport side ($p=0.004$). It is a simple calculation from there to show that the expected number of years until the first spill is 500 years.
 
@@ -79,9 +81,9 @@ Interestingly, you can reverse this calculation! That is, if one has a pipeline 
 $$p = \frac{1}{\text{E}[s]} = \frac{1}{50} = 0.02$$
 ```
 
-This is interesting, as the review panel has therefore accepted the company's assertion that (due to improved technology) the probability of a spill has decreased by an _order of magnitude_ (a factor of 10) since then. Furthermore, on the basis of this the review panel was happy to state that the first expected pipeline spill is in 500 years. Recalling that the Kalamazoo spill was in 2010 and it was the same company which was responsible for maintaining that line (in an easily accessible area), this is a significant improvement!
+This is interesting, as the review panel has therefore accepted the company's assertion that (due to improved technology) the probability of a spill has decreased by an *order of magnitude* (a factor of 10) since then. Furthermore, on the basis of this the review panel was happy to state that the first expected pipeline spill is in 500 years. Recalling that the Kalamazoo spill was in 2010 and it was the same company which was responsible for maintaining that line (in an easily accessible area), this is a significant improvement!
 
-There is another aspect of this calculation that is interesting: the review panel supplied the _expected value_. An expected value is heavily influenced by large values with very low probabilities. It is possible, though unlikely, that there will not be a spill for thousands of years! As discussed above, this calculation is a summation of the probability of a spill over all years (i.e. an infinite sum), so there are lots of large values. A different calculation is of the median, which is the time at which there is a 50% probability a spill will already have occurred.
+There is another aspect of this calculation that is interesting: the review panel supplied the *expected value*. An expected value is heavily influenced by large values with very low probabilities. It is possible, though unlikely, that there will not be a spill for thousands of years! As discussed above, this calculation is a summation of the probability of a spill over all years (i.e. an infinite sum), so there are lots of large values. A different calculation is of the median, which is the time at which there is a 50% probability a spill will already have occurred.
 
 ```
 <p>This suggests:</p>
@@ -142,27 +144,27 @@ There is another aspect of this calculation that is interesting: the review pane
 <hr />
 ```
 
-% These should really be in example scopes, but still no way to share the p_f_array easily between scopes
+%  These should really be in example scopes, but still no way to share the p_f_array easily between scopes 
 
-% Need for showing 50% chance of a spill in years
+%  Need for showing 50% chance of a spill in years 
 
-% Need for showing years to fail
+%  Need for showing years to fail 
 
 ## **Risky Business**: What risk of an oil spill are you comfortable with?
 
-In order to gain insight into the potential risk of an oil spill, you can play with the parameters below! You can _drag_ the blue highlighted numbers to adjust the interactive graph.
+In order to gain insight into the potential risk of an oil spill, you can play with the parameters below! You can *drag* the blue highlighted numbers to adjust the interactive graph.
 
-Let's say the probability of a spill is per year (Use [Table 1](#table1)). Let's say you are comfortable with a probability of _not_ having a spill. **With your risk tolerance and this probability, the pipeline should not be operated longer than years.**
+Let's say the probability of a spill is per year (Use [Table 1](#table1)). Let's say you are comfortable with a probability of *not* having a spill. **With your risk tolerance and this probability, the pipeline should not be operated longer than years.**
 
 When the probability of a spill is the average interval between spills (the return period) as calculated by Northern Gateway is years. **At years there is a chance there has already been an oil spill.**
 
-% silly legend
+%  silly legend 
 
 Figure 1: Probability of no spill when the failure rate is per year.
 
 ---
 
-Table 1: Northern Gateway's summary of representative parameters for oil spill probabilities. _Click_ a row to change the graph above.
+Table 1: Northern Gateway's summary of representative parameters for oil spill probabilities. *Click* a row to change the graph above.
 
 | Spill Type                      | Return Period | Annual Probability | Page Reference                                                                                                                                                                                                    |
 | ------------------------------- | ------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -174,34 +176,34 @@ Table 1: Northern Gateway's summary of representative parameters for oil spill p
 
 ## Special Thanks
 
-- Tangle.js
+*   Tangle.js
 
-  [http://​worrydream​.com​/Tangle/](http://worrydream.com/Tangle/)
+    [http://​worrydream​.com​/Tangle/](http://worrydream.com/Tangle/)
 
-- d3.js
+*   d3.js
 
-  <http://d3js.org/>
+    <http://d3js.org/>
 
-- Collision Detection
+*   Collision Detection
 
-  [http://​bl​.ocks​.org​/mbostock​/3231298](http://bl.ocks.org/mbostock/3231298)
+    [http://​bl​.ocks​.org​/mbostock​/3231298](http://bl.ocks.org/mbostock/3231298)
 
-- Family
+*   Family
 
-  and time over the holidays!
+    and time over the holidays!
 
 ---
 
 ## Some Extra Reading
 
-- Review Panel Report
+*   Review Panel Report
 
-  [http://​gatewaypanel​.review​-examen​.gc​.ca​/clf​-nsi​/hm​-eng​.html](http://gatewaypanel.review-examen.gc.ca/clf-nsi/hm-eng.html)
+    [http://​gatewaypanel​.review​-examen​.gc​.ca​/clf​-nsi​/hm​-eng​.html](http://gatewaypanel.review-examen.gc.ca/clf-nsi/hm-eng.html)
 
-- Dogwood Initiative
+*   Dogwood Initiative
 
-  [http://​dogwoodinitiative​.org​/no​-tankers​/learn​-more](http://dogwoodinitiative.org/no-tankers/learn-more)
+    [http://​dogwoodinitiative​.org​/no​-tankers​/learn​-more](http://dogwoodinitiative.org/no-tankers/learn-more)
 
-- Wikipedia
+*   Wikipedia
 
-  [Kalamazoo River oil spill](https://en.wikipedia.org/wiki/Kalamazoo_River_oil_spill)
+    [Kalamazoo River oil spill](https://en.wikipedia.org/wiki/Kalamazoo_River_oil_spill)

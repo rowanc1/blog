@@ -7,7 +7,7 @@ date: 2024-11-14
 thumbnail: images/short/read-with-highlights.png
 tags:
   - short
-  - thoughts
+  - thought
   - experiment
 ---
 

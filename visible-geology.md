@@ -15,6 +15,11 @@ Visible Geology allows you to create geologic block diagrams in three-dimensions
 
 :::{iframe} https://web.archive.org/web/20150904210912/http://app.visiblegeology.com/Visiblegeology.html
 :width: 100%
+:class: border
 :::
 
 ---
+
+:::{articles}
+:tagged: visible-geology
+:::

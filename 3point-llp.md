@@ -1,5 +1,5 @@
 ---
-title: 3point LLP
+title: 3point Lean Launch Pad
 description: Lean Launch Pad
 date: 2015-03-27
 tags: ['presentation', '3point']

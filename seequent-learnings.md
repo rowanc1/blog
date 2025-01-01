@@ -11,7 +11,7 @@ thumbnail: images/logo/seequent-white.png
 > that I helped curate was outstanding. I am going to miss working and learning from all of
 > you!
 
-Over the last three years, I have helped set the strategic direction and execution of the cloud strategy at [Seequent](/seequent). In 2016, as the CTO of 3point Science[^3pt], I was involved in everything from project management, design, development, integration, management and strategy - we built out [Steno3D.com](/steno3d), which was focused on scientific visualization and collaboration. We focused on product-market fit, iteration and speed to market, getting to a [product launch](/scipy2016-steno3d) in five months with a six person team. The tool was used by the UN for [communicating water resources](/seequent-water) at a refugee camp, in a [NOVA documentary](/nova-holocaust-tunnel), and in open source and many other projects.
+Over the last three years, I have helped set the strategic direction and execution of the cloud strategy at [Seequent](https://seequent.com). In 2016, as the CTO of 3point Science[^3pt], I was involved in everything from project management, design, development, integration, management and strategy - we built out [Steno3D.com](scipy2016-steno3d.md), which was focused on scientific visualization and collaboration. We focused on product-market fit, iteration and speed to market, getting to a [product launch](scipy2016-steno3d.md) in five months with a six person team. The tool was used by the UN for [communicating water resources](https://www.seequent.com/using-3d-technology-to-find-water-for-refugees/) at a refugee camp, in a [NOVA documentary](https://www.pbs.org/wgbh/nova/video/holocaust-escape-tunnel), and in open source and many other projects.
 
 [^3pt]:
     I co-founded 3point Science in 2013 and sold to Seequent in 2016, where the company continued to operate as a subsidiary of Seequent (at that time called ARANZ Geo).
@@ -29,7 +29,7 @@ Seequent’s desktop modeling products to allow Leapfrog3D to seamlessly transfe
 our cloud-based visualization and collaboration tools. The successful integration led the company
 to restructure 3point Science as the cloud division within Seequent in 2017, and I became the
 Director of Cloud Architecture. I looked after a 12 person team focused on our native-cloud
-product ([lfview.com](/lfview)) as we grew it out of the technology and
+product, LF View, as we grew it out of the technology and
 learnings from Steno3D and applied it to the more conservative mining industry. This required
 improved functionality, reliability and visualization performance. I led the technical team as
 well as focused on securing funding from government programs and large accelerated development
@@ -44,7 +44,7 @@ code, and culture across all of Seequent.
 
 [^productivity]: In retrospect, doubling a team in such a short time is not good for short-term productivity as everyone is focused on teaching the new team members!
 
-In 2019, I transitioned from the Director of Cloud Architecture to the [VP of Cloud Architecture](/vp-cloud-architecture). The increase in responsibility saw me looking after the direction and vision of our existing enterprise/hosted products that were built in a hosted server architecture that did not take advantage of cloud services (storage, networking, etc.) as well as the cloud provider strategy for all of Seequent[^cloud-providers].
+In 2019, I transitioned from the Director of Cloud Architecture to the [VP of Cloud Architecture](vp-cloud-architecture.md). The increase in responsibility saw me looking after the direction and vision of our existing enterprise/hosted products that were built in a hosted server architecture that did not take advantage of cloud services (storage, networking, etc.) as well as the cloud provider strategy for all of Seequent[^cloud-providers].
 The teams that I directed consisted of 65 people that were distributed in five timezones (Toronto, Vancouver, Calgary, and New Zealand).
 
 [^cloud-providers]: This strategy included choice of cloud providers and services, API infrastructure, domain strategy, authorization, and many other architecture choices

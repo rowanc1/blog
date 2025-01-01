@@ -5,5 +5,5 @@ authors: []
 ---
 
 :::{articles}
-:tagged: projects
+:tagged: project
 :::

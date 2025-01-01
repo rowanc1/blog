@@ -29,9 +29,13 @@ project:
     - file: index.md
     - file: 2024-11-14-read-with-highlights.md # 2024-11-14
     - file: creating-technical-communication-tools.md # 2019-11-12
+    - file: seequent-learnings.md # 2019-10-11
+    - file: snells-law.md # 2019-06-01
     - file: ink-2019.md # 2019-05-12
     - file: components-ink.md # 2019-05-12
-    - file: seequent-learnings.md # 2019-10-11
+    - file: ink.md # 2019-05-12
+    - file: arctan2.md # 2019-05-12
+    - file: taylor-series.md # 2019-05-12
     - file: fats-2019.md # 2019-03-22
     - file: vp-cloud-architecture.md # 2019-01-01
     - file: early-career-award-ucalgary.md # 2018-09-08
@@ -59,6 +63,7 @@ project:
     - file: seg-casing.md # 2015-10-27
     - file: seg-moving-dimensions.md # 2015-10-26
     - file: 3point-llp.md # 2015-03-27
+    - file: 3point.md # 2015-03-27
     - file: vanier.md # 2015-02-17
     - file: visible-geology.md # 2015-01-27
     - file: exploring-julia-with-simpeg.md # 2015-01-27
@@ -70,10 +75,16 @@ project:
     - file: on-ideas-and-pencils.md # 2014-07-13
     - file: scipy2014.md # 2014-07-12
     - file: numerical-rock-physics-paper.md # 2014-03-01
+    - file: weakform-dc.md # 2014-02-13
     - file: open-access-tools.md # 2014-01-22
+    - file: probability-of-a-spill.md # 2014-01-03
     - file: on-teaching-stereonets.md # 2013-06-14
+    - file: stereonet-tutorial-intersection.md # 2013-04-26
+    - file: stereonet-tutorial-line.md # 2013-04-26
+    - file: stereonet-tutorial-plane.md # 2013-04-26
     - file: stereonet.md # 2013-04-25
     - file: visible-earthquakes.md # 2013-04-20
+    - file: fault-lab.md # 2013-04-20
     - file: innovative-dissemination-award-visible-geology.md # 2013-04-13
     - file: ert-probe-paper.md # 2013-02-04
     - file: outcrop-patterns.md # 2012-10-25

@@ -1,5 +1,5 @@
 ---
-title: Story | Rowan Cockett
+title: Rowan's Story
 description: Once upon a time...
 thumbnail: images/rowan/circle.png
 ---
@@ -20,6 +20,7 @@ I started [creating geoscience visualization](visible-geology.md) software as an
 
 ::::{aside}
 :::{figure} images/logo/visible-geology.png
+:width: 60%
 I started [Visible Geology](visible-geology.md), an online 3D geologic modeling tool.
 :::
 ::::
@@ -31,17 +32,11 @@ Two years of work, a single blog post comment and my first 5000 users! \
 In 2010 in the USA, there were only 23,983 undergraduate students [enrolled in the geosciences](https://www.americangeosciences.org/workforce/reports).
 :::
 
+I co-founded [3point Science](./3point.md) in 2013 with Adam Pidlisecky and Tara Moran where we built web-based visualization software for the geoscience industry. We experimented in three different industries, built things, hired people, launched websites, wrote grants, got rejected, pivoted, bootstrapped, launched, and pitched visions of the future. I was also a full-time [PhD student](phd.md). It was crazy. In 2015, we ran an interactive presentation for a mining symposium and caught the eye of a number of companies, including Aranz Geo, who saw the web as the natural next step for their business.
+
 ::::{aside}
 :::{figure} images/logo/3point.png
 I started 3point Science, a geoscience visualization company.
-:::
-::::
-
-I co-founded 3point Science in 2013 with Adam Pidlisecky and Tara Moran where we built web-based visualization software for the geoscience industry. We experimented in three different industries, built things, hired people, launched websites, wrote grants, got rejected, pivoted, bootstrapped, launched, and pitched visions of the future. I was also a full-time [PhD student](phd.md). It was crazy. In 2015, we ran an interactive presentation for a mining symposium and caught the eye of a number of companies, including Aranz Geo, who saw the web as the natural next step for their business.
-
-::::{aside}
-:::{figure} images/logo/aranz.png
-3point Science was acquired by Aranz Geo.
 :::
 ::::
 
@@ -49,15 +44,15 @@ I co-founded 3point Science in 2013 with Adam Pidlisecky and Tara Moran where we
 Micro-seismic events in Steno3D
 :::
 
-[3point Science was acquired](https://www.seequent.com/aranz-geo-acquires-3point-science/) by Aranz Geo in March 2016, and I remained on as the CTO; helping to start the Calgary office of the company. In 2017, the parent company re-branded to [Seequent](http://seequent.com) and consolidated 3point Science into the cloud computing division; I became the Director of Cloud Architecture. At [Seequent](https://seequent.com), we have been working on [Steno3D](scipy2016-steno3d.md) a 3D visualization tool for scientific Python users and [LF View](https://lfview.com) a 3D communication platform for users of the geoscience modeling package [Leapfrog 3D](http://www.leapfrog3d.com/).
+[3point Science was acquired](https://www.seequent.com/aranz-geo-acquires-3point-science/) by Seequent (formerly Aranz Geo) in March 2016, and I remained on as the CTO; helping to start the Calgary office of the company. [Seequent](http://seequent.com) is a global geoscience software company and in 2017 they were making desktop software — my team was put in charge of transforming their desktop products (primarily [Leapfrog 3D](http://www.leapfrog3d.com/)) with online collaboration, web-based [3D visualization](scipy2016-steno3d.md), and version control, the products and technologies I worked on became [Seequent Central](https://www.seequent.com/products-solutions/seequent-central).
+I ran the cloud platform team for four years as the [VP of Cloud Architecture](vp-cloud-architecture.md), reporting directly to the CEO; Seequent [sold in 2021 for $1.05B](https://www.seequent.com/bentley-systems-enters-into-1-05-billion-agreement-to-acquire-seequent-global-leader-in-3d-modeling-software-for-the-geosciences/).
+Selling my first company, building & leading global teams, and creating beautifully designed, technically outstanding products was a [fantastic experience](seequent-learnings.md).
 
 ::::{aside}
 :::{figure} images/logo/seequent.png
-ARANZ Geo [rebranded to Seequent](https://www.seequent.com/blog/2018/1/30/why-we-changed) in 2017
+Seequent grew went from 86 people when 3point Science was acquired to over 400 in the four years I was there.
 :::
 ::::
-
-In 2019, I resigned as the [VP of Cloud Architecture](vp-cloud-architecture.md). Selling my first company, building & leading teams, and creating amazing, technically outstanding products was such a [wonderful experience](seequent-learnings.md). I wish Seequent all the best on their continued journey.
 
 :::{figure} images/awards/arch-photo.jpg
 In 2018, I received an [Early Career Achievement Award](early-career-award-ucalgary.md) from the University of Calgary for my entrepreneurship, scholarship and leadership.

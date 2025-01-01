@@ -1,3 +1,5 @@
+import fs from 'fs';
+
 const articlesDirective = {
   name: 'articles',
   doc: 'A directive that lists recent articles or thoughts from a given category/tag.',
@@ -43,31 +45,35 @@ const articlesDirective = {
   },
 };
 
-// Combine your directive(s) into a plugin:
+const cvItemsDirective = {
+  name: 'cv-items',
+  doc: 'List out the CV items',
+  arg: {
+    type: String,
+    doc: 'A link to JSON file',
+  },
+  options: {},
+  run(data) {
+    const fileName = data.arg;
+    let items;
+    try {
+      items = JSON.parse(fs.readFileSync(fileName).toString());
+    } catch (error) {
+      console.error('No file found or not in JSON format');
+    }
+
+    return [
+      {
+        type: 'cvItems',
+        data: { items },
+      },
+    ];
+  },
+};
+
 const plugin = {
-  name: 'Articles Plugin',
-  directives: [articlesDirective],
+  name: 'Plugins',
+  directives: [articlesDirective, cvItemsDirective],
 };
 
 export default plugin;
-
-// const unsplashDirective = {
-//   name: 'unsplash',
-//   doc: 'An example directive for showing a nice random image at a custom size.',
-//   alias: ['random-pic'],
-//   arg: { type: String, doc: 'The kinds of images to search for, e.g., `fruit`' },
-//   options: {
-//     size: { type: String, doc: 'Size of the image, for example, `500x200`.' },
-//   },
-//   run(data) {
-//     const query = data.arg;
-//     const size = data.options.size || '500x200';
-//     const url = `https://source.unsplash.com/random/${size}/?${query}`;
-//     const img = { type: 'image', url };
-//     return [img];
-//   },
-// };
-
-// const plugin = { name: 'Unsplash Images', directives: [unsplashDirective] };
-
-// export default plugin;

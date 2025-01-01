@@ -18,7 +18,7 @@ technical communication / scientific computing / visualization / thoughts
 +++
 
 :::{articles} recent thoughts
-:tagged: thoughts
+:tagged: thought
 :limit: 4
 :url: /thoughts
 :::
