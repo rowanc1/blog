@@ -4,6 +4,7 @@ description: Efficient 3D Richards equation inversion.
 date: 2017-06-11
 tags: ['paper', 'simpeg', 'richards']
 thumbnail: images/papers/richards.png
+doi: 10.1016/j.cageo.2018.04.006
 ---
 
 ## Abstract
@@ -15,7 +16,7 @@ Fluid flow in the vadose zone is governed by Richards equation; it is parameteri
 ## Full Paper
 
 :::{note} Note
-Cockett, R., Heagy, L. J., & Haber, E. (2017). A numerical method for efficient 3D inversions using Richards equation. arXiv. [http://​arxiv​.org​/abs​/1706​.03381](http://arxiv.org/abs/1706.03381)
+Cockett, R., Heagy, L. J., & Haber, E. (2018). A numerical method for efficient 3D inversions using Richards equation. Computers & Geosciences. @10.1016/j.cageo.2018.04.006
 :::
 
 :::{figure} images/papers/richards-thumbnail.png

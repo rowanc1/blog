@@ -4,6 +4,7 @@ description: 'Exploring nonlinear inversions: A 1D magnetotelluric example'
 date: 2017-08-01
 tags: ['paper', 'simpeg', 'electromagnetics']
 thumbnail: images/papers/mt-tutorial.png
+doi: 10.1190/tle36080696.1
 ---
 
 ## Abstract

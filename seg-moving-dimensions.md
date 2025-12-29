@@ -4,6 +4,7 @@ description: Moving between dimensions in electromagnetic inversions
 date: 2015-10-26
 tags: ['paper', 'simpeg', 'electromagnetics']
 thumbnail: images/papers/seg-moving-dimensions.png
+doi: 10.1190/segam2015-5930379.1
 ---
 
 ## Abstract

@@ -6,8 +6,6 @@ tags: ['thought']
 thumbnail: images/on/pencils.png
 ---
 
-+++
-
 ## What is an idea?
 
 How do you get one, have one, own one? Where do ideas flourish?

@@ -27,10 +27,12 @@ project:
     - plugin.mjs
   toc:
     - file: index.md
+    - file: visible-geology-seequent-agu24.md
     - file: 2024-11-14-read-with-highlights.md # 2024-11-14
     - file: creating-technical-communication-tools.md # 2019-11-12
     - file: seequent-learnings.md # 2019-10-11
     - file: snells-law.md # 2019-06-01
+    - file: seismic-layers.md # 2019-05-12
     - file: ink-2019.md # 2019-05-12
     - file: components-ink.md # 2019-05-12
     - file: ink.md # 2019-05-12
@@ -39,10 +41,10 @@ project:
     - file: fats-2019.md # 2019-03-22
     - file: vp-cloud-architecture.md # 2019-01-01
     - file: early-career-award-ucalgary.md # 2018-09-08
+    - file: on-my-website-2018.md # 2018-02-03
     - file: phd.md # 2017-12-04
     - file: phd-thesis.md # 2017-12-04
     - file: phd-defence.md # 2017-12-04
-    - file: phd-courses.md # 2017-12-04
     - file: simpeg-em-paper.md # 2017-10-01
     - file: jupytercon2017.md # 2017-08-24
     - file: mt-tutorial.md # 2017-08-01
@@ -55,6 +57,7 @@ project:
     - file: scipy2016.md # 2016-07-15
     - file: scipy2016-steno3d.md # 2016-07-15
     - file: undersampled-15.md # 2016-06-23
+    - file: pixels-and-their-neighbors.md # 2016-05-15
     - file: 3point-ubc-keynote.md # 2016-05-02
     - file: innovative-dissemination-award-simpeg.md # 2016-04-08
     - file: on-research.md # 2016-03-30
@@ -78,6 +81,7 @@ project:
     - file: weakform-dc.md # 2014-02-13
     - file: open-access-tools.md # 2014-01-22
     - file: probability-of-a-spill.md # 2014-01-03
+    - file: phd-courses.md # 2013-08-01
     - file: on-teaching-stereonets.md # 2013-06-14
     - file: stereonet-tutorial-intersection.md # 2013-04-26
     - file: stereonet-tutorial-line.md # 2013-04-26

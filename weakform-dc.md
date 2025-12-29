@@ -6,9 +6,6 @@ tags: ['thought', 'icare']
 thumbnail: /images/weakform-dc/1d-mesh.png
 ---
 
-+++
-
-
 ```python
 from SimPEG import Mesh
 mesh = Mesh.TensorMesh([10, 10])
@@ -16,10 +13,8 @@ mesh = Mesh.TensorMesh([10, 10])
 
 ## Discretizing Equation (1)
 
-
-
 :::{note} Note
-\mathbf{M}_\frac{1}{\sigma} \mathbf{j} = - \mathbf{D}^\top\text{diag}(\mathbf{v})\phi + \mathbf{P}_{bc}\phi_{bc}
+\mathbf{M}_\frac{1}{\sigma} \mathbf{j} = - \mathbf{D}^\top\text{diag}(\mathbf{v})\phi + \mathbf{P}_{bc}\phi\_{bc}
 :::
 
 ## Discretizing Equation (2)
@@ -51,8 +46,6 @@ However, we may want to enforce Neumann boundary conditions on $\mathbf{j}$, whi
 ```
 
 `python" icare="=5D = mesh.faceDiv`
-
-
 
 :::{note} Note
 \mathbf{D}\mathbf{P}_{in}^\top\mathbf{P}_{in}\mathbf{j} + \mathbf{D}\mathbf{P}_{out}^\top\mathbf{j}_{bc} = \mathbf{q}
@@ -87,7 +80,7 @@ Here we know $\mathbf{j}_{bc}$ is zero on all of the boundaries, so we will drop
 ```
 
 :::{note} Note
-\text{diag}(\mathbf{v})\mathbf{D}_{in}\mathbf{M}_{\frac{1}{\sigma}}^{-1}\mathbf{D}_{in}^\top\text{diag}(\mathbf{v})\phi = -\text{diag}(\mathbf{v})\mathbf{q} 
+\text{diag}(\mathbf{v})\mathbf{D}_{in}\mathbf{M}_{\frac{1}{\sigma}}^{-1}\mathbf{D}\_{in}^\top\text{diag}(\mathbf{v})\phi = -\text{diag}(\mathbf{v})\mathbf{q}
 :::
 
 :::{note} Note
@@ -95,7 +88,7 @@ Here we know $\mathbf{j}_{bc}$ is zero on all of the boundaries, so we will drop
 
 **Note:**
 
- The matrix has a null space of a constant vector! This is expected with homogeneous Neumann boundary conditions, but we need to not forget about this when we are solving the matrix system.
+The matrix has a null space of a constant vector! This is expected with homogeneous Neumann boundary conditions, but we need to not forget about this when we are solving the matrix system.
 :::
 
 ```python

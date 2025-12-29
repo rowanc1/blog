@@ -1,6 +1,19 @@
 [
   {
     "__class__": "CvItem",
+    "uid": "cv-experience-csf",
+    "title": "Continuous Science Foundation",
+    "description": "Founder",
+    "date": "2024-12-15",
+    "duties": [
+      "The Continuous Science Foundation is a non-profit organization that supports the development of continuous science, a new paradigm for scientific research that is based on the principles of continuous learning, continuous improvement and continuous innovation. We are focusing on composability and modularity in scientific research through working groups and standards development."
+    ],
+    "current": true,
+    "url_more": "/csf",
+    "tags": ["experience"]
+  },
+  {
+    "__class__": "CvItem",
     "uid": "cv-experience-curvenote",
     "title": "Curvenote",
     "description": "CEO & Founder",

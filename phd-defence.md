@@ -6,8 +6,6 @@ tags: ['presentation', 'phd']
 thumbnail: images/phd/defence.png
 ---
 
-+++
-
 ```{iframe} //www.youtube.com/embed/oGkIcoxJf-Q
 :width: 100%
 ```

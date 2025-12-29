@@ -4,6 +4,7 @@ description: Modelling electromagnetic problems in the presence of cased wells
 date: 2015-10-27
 tags: ['paper', 'simpeg', 'electromagnetics']
 thumbnail: images/papers/seg-casing.png
+doi: 10.1190/segam2015-5931035.1
 ---
 
 ## Abstract

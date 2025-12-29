@@ -4,6 +4,7 @@ description: Simulated electrical conductivity response of clogging mechanisms f
 date: 2014-03-01
 tags: ['paper', 'uofc']
 thumbnail: images/papers/nrp.png
+doi: 10.1190/geo2013-0054.1
 ---
 
 ## Abstract

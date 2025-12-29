@@ -4,6 +4,7 @@ description: 'Visible Geology: Creative online tools for teaching, learning, and
 date: 2016-09-08
 tags: ['paper', 'visible-geology']
 thumbnail: images/papers/visible-geology.png
+doi: 10.1306/13561985M1113671
 ---
 
 ## Abstract

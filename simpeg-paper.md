@@ -4,6 +4,7 @@ description: An open source framework for simulation and gradient based paramete
 date: 2015-12-01
 tags: ['paper', 'simpeg']
 thumbnail: images/papers/simpeg.png
+doi: 10.1016/j.cageo.2015.09.015
 ---
 
 ## Abstract

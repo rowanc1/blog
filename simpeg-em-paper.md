@@ -4,6 +4,7 @@ description: A framework for simulation and inversion in electromagnetics
 date: 2017-10-01
 tags: ['paper', 'simpeg', 'electromagnetics']
 thumbnail: images/papers/simpeg-em.png
+doi: 10.1016/j.cageo.2017.06
 ---
 
 ## Abstract

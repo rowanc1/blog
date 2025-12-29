@@ -4,6 +4,7 @@ description: Parametrized inversion framework for proppant volume in a hydraulic
 date: 2014-10-26
 tags: ['paper', 'simpeg', 'electromagnetics']
 thumbnail: images/papers/seg-proppant.png
+doi: 10.1190/segam2014-1639.1
 ---
 
 ## Abstract

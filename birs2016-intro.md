@@ -6,7 +6,7 @@ tags: ['presentation', 'simpeg']
 thumbnail: images/presentations/birs2016-people-small.png
 ---
 
-```{iframe} //www.youtube.com/embed/HDr26sDep6A
+```{iframe} https://www.youtube-nocookie.com/embed/HDr26sDep6A
 :width: 100%
 ```
 
@@ -16,7 +16,7 @@ In 2016, Lindsey, Doug, Adam and I ran a [BIRS Conference](https://www.birs.ca/e
 
 ## Relevance, Importance, Timeliness
 
-Although each subdiscipline (e.g. flow modelling vs electromagnetic simulation) invokes many of the same concepts and numerical pieces for solving simulation and inverse problems, the approaches developed and applied are not easily shared. This is due to differing terminology, organization of the methodology, and software implementations. These disconnects are especially apparent in software implementations. Software is often developed for specific outcomes, and the components, which are generic and could be shared by others, are deeply embedded and not easily transferred to other applications. This lack of transportability and interoperability severely hinders the advancement of geophysical applications since geoscientists in different sub-groups often find themselves having to develop a complete software solution from scratch prior to investigating their scientific questions of interest. Much greater efficiency, and higher quality outcomes, could be achieved if geophysicists had a common framework to guide their approach and had access to software that performed many of the routine operations. Geoscientists would therefore be able to concentrate upon the higher-level scientific problem and on developing components that are specific to the problem at hand.
+Although each sub-discipline (e.g. flow modeling vs electromagnetic simulation) invokes many of the same concepts and numerical pieces for solving simulation and inverse problems, the approaches developed and applied are not easily shared. This is due to differing terminology, organization of the methodology, and software implementations. These disconnects are especially apparent in software implementations. Software is often developed for specific outcomes, and the components, which are generic and could be shared by others, are deeply embedded and not easily transferred to other applications. This lack of transportability and interoperability severely hinders the advancement of geophysical applications since geoscientists in different subgroups often find themselves having to develop a complete software solution from scratch prior to investigating their scientific questions of interest. Much greater efficiency, and higher quality outcomes, could be achieved if geophysicists had a common framework to guide their approach and had access to software that performed many of the routine operations. Geoscientists would therefore be able to concentrate upon the higher-level scientific problem and on developing components that are specific to the problem at hand.
 
 ## What we are proposing
 
@@ -26,7 +26,7 @@ Specifically, this workshop is aimed at bringing together current experts and th
 
 ## Proposed structure
 
-Much progress has been made in the individual subdisciplines of geophysical simulation and inverse problems. However, most of this progress has occurred in isolation, despite the fact that geoscientists are increasingly encountering problems where information from several subdisciplines must be integrated. In order to address the three goals outlined above the workshop will be structured to:
+Much progress has been made in the individual sub-disciplines of geophysical simulation and inverse problems. However, most of this progress has occurred in isolation, despite the fact that geoscientists are increasingly encountering problems where information from several subdisciplines must be integrated. In order to address the three goals outlined above the workshop will be structured to:
 
 1.  have participants provide an overview of the subdisciplines of geophysical inversions, including:
     - a summary of the standard practices in that subdiscipline
@@ -44,7 +44,7 @@ Throughout the meeting participants will be encouraged to contribute their prese
 
 ## Building a community
 
-The workshop will be attended by senior faculty who can provide a retrospective analysis of the development of individual subdisciplines as well as help identify the "big win" targets for young researchers. Complementing these senior faculty will be graduate students and post-doctoral fellows who bring their own vision and who will ultimately be the next researchers implementing the integration challenges of the future. BIRS provides a unique opportunity to target top researchers across the field of geophysics to look back, synthesize, and organize an approach to move forward as a community. Furthermore, this opportunity coincides with the onset of a software revolution associated with open source, web-based development communities. It is now possible to have community-maintained software repositories that have contributors from a range of disciplines spread across the globe. This transformational shift in decentralized software development and maintenance, coupled with the opportunity to come together through BIRS to strategize and build upon the framework presents a unique, timely opportunity that has the potential to result in an enduring, game changing impact to geophysical simulation and inversion.
+The workshop will be attended by senior faculty who can provide a retrospective analysis of the development of individual sub-disciplines as well as help identify the "big win" targets for young researchers. Complementing these senior faculty will be graduate students and post-doctoral fellows who bring their own vision and who will ultimately be the next researchers implementing the integration challenges of the future. BIRS provides a unique opportunity to target top researchers across the field of geophysics to look back, synthesize, and organize an approach to move forward as a community. Furthermore, this opportunity coincides with the onset of a software revolution associated with open source, web-based development communities. It is now possible to have community-maintained software repositories that have contributors from a range of disciplines spread across the globe. This transformational shift in decentralized software development and maintenance, coupled with the opportunity to come together through BIRS to strategize and build upon the framework presents a unique, timely opportunity that has the potential to result in an enduring, game changing impact to geophysical simulation and inversion.
 
 ---
 

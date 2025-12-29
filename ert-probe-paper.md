@@ -4,6 +4,7 @@ description: 'Electrical Conductivity Probes for Studying Vadose Zone Processes:
 date: 2013-02-04
 tags: ['paper']
 thumbnail: images/papers/probe.png
+doi: 10.2136/vzj2012.0073
 ---
 
 ## Abstract

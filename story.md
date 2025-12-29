@@ -32,7 +32,7 @@ Two years of work, a single blog post comment and my first 5000 users! \
 In 2010 in the USA, there were only 23,983 undergraduate students [enrolled in the geosciences](https://www.americangeosciences.org/workforce/reports).
 :::
 
-I co-founded [3point Science](./3point.md) in 2013 with Adam Pidlisecky and Tara Moran where we built web-based visualization software for the geoscience industry. We experimented in three different industries, built things, hired people, launched websites, wrote grants, got rejected, pivoted, bootstrapped, launched, and pitched visions of the future. I was also a full-time [PhD student](phd.md). It was crazy. In 2015, we ran an interactive presentation for a mining symposium and caught the eye of a number of companies, including Aranz Geo, who saw the web as the natural next step for their business.
+I co-founded [3point Science](3point.md) in 2013 with Adam Pidlisecky and Tara Moran where we built web-based visualization software for the geoscience industry. We experimented in three different industries, built things, hired people, launched websites, wrote grants, got rejected, pivoted, bootstrapped, launched, and pitched visions of the future. I was also a full-time [PhD student](phd.md). It was crazy. In 2015, we ran an interactive presentation for a mining symposium and caught the eye of a number of companies, including Aranz Geo, who saw the web as the natural next step for their business.
 
 ::::{aside}
 :::{figure} images/logo/3point.png

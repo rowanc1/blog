@@ -6,8 +6,6 @@ tags: ['presentation', 'phd', 'simpeg']
 thumbnail: images/presentations/phd-overview.png
 ---
 
-+++
-
 ```{iframe} //www.youtube.com/embed/WGi67l35p4w
 :width: 100%
 ```

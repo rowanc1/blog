@@ -17,7 +17,7 @@ The development of a geophysical framework requires considering a number of disc
 ## Full Thesis
 
 :::{note} Note
-Cockett, R. (2017). A framework for geophysical inversions with application to vadose zone parameter estimation. University of British Columbia, PhD Thesis. [http://​hdl​.handle​.net​/2429​/64162](http://hdl.handle.net/2429/64162)
+Cockett, R. (2017). A framework for geophysical inversions with application to vadose zone parameter estimation. University of British Columbia, PhD Thesis. <http://hdl.handle.net/2429/64162>
 :::
 
 :::{figure} images/papers/phd-thesis-thumbnail.png
